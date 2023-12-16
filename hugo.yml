@@ -1,0 +1,47 @@
+baseURL: "https://example.org/"
+title: rmd
+paginate: 5
+theme: [PaperMod]
+
+params:
+    profileMode:
+        enabled: true
+        title: "hi, i'm raymond!" # optional default will be site title
+        subtitle: "welcome to my blog/personal website"
+        # imageUrl: "<image link>" # optional
+        # imageTitle: "insert image of me here" # optional
+        imageWidth: 150 # custom size
+        imageHeight: 150 # custom size
+        # buttons:
+        #     - name: Archive
+        #     url: "/archive"
+        #     - name: Github
+        #     url: "https://github.com/"
+
+    # socialIcons:
+    #     - name: "<platform>"
+    #         url: "<link>"
+    #     - name: "<platform 2>"
+    #         url: "<link2>"
+    socialIcons:
+    - name: linkedin
+      title: my linkedin!
+      url: "https://www.linkedin.com/in/rzlin/"
+    - name: github
+      title: my github!
+      url: "https://github.com/danknessdra"
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: resume
+      url: https://example.org
+      weight: 30
