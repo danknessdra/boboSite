@@ -12,9 +12,9 @@ params:
         # imageTitle: "insert image of me here" # optional
         imageWidth: 150 # custom size
         imageHeight: 150 # custom size
-        # buttons:
-        #     - name: Archive
-        #     url: "/archive"
+        buttons:
+            - name: archive
+              url: "/archive"
         #     - name: Github
         #     url: "https://github.com/"
 
@@ -30,7 +30,6 @@ params:
     - name: github
       title: my github!
       url: "https://github.com/danknessdra"
-
 menu:
   main:
     - identifier: posts
@@ -41,7 +40,11 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 30
+    - identifier: resume
       name: resume
       url: https://example.org
-      weight: 30
+      weight: 40
