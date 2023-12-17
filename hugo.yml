@@ -13,8 +13,8 @@ params:
         imageWidth: 150 # custom size
         imageHeight: 150 # custom size
         buttons:
-            - name: archive
-              url: "/archive"
+            - name: archives
+              url: "/archives"
         #     - name: Github
         #     url: "https://github.com/"
 
