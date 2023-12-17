@@ -41,10 +41,10 @@ menu:
       url: /tags/
       weight: 20
     - identifier: archive
-      name: archive
-      url: /archive/
+      name: archives
+      url: /archives/
       weight: 30
     - identifier: resume
       name: resume
-      url: https://example.org
+      url: /resume.pdf
       weight: 40
