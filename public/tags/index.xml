@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on rmd</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on rmd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CRUD</title>
+      <link>http://localhost:1313/tags/crud/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/crud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redis</title>
+      <link>http://localhost:1313/tags/redis/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/redis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scale</title>
+      <link>http://localhost:1313/tags/scale/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supabase</title>
+      <link>http://localhost:1313/tags/supabase/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/supabase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Svelte</title>
+      <link>http://localhost:1313/tags/svelte/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/svelte/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
